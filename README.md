@@ -6,7 +6,7 @@
 - Ecommerce feature
 - buy product
 
-#Technology
+# Technology
 -  HTML
 -  CSS
 -  Tailwindcss
