@@ -1,4 +1,4 @@
-# NoorMart|Ecommerce Tech Shop
+# NoorMart | Ecommerce Tech Shop
 
 ## [Live Link](https://noormart-42df8.web.app/)
 
